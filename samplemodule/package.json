@@ -1,0 +1,11 @@
+{
+"author": "KKBasheer",
+"name": "kkbmodule",
+"version": "0.1.1",
+ "description": "Censors words out of text",
+"main": "kkbtext",
+  "dependencies": {},
+ "engines": {
+ "node": "*"
+ }
+}
